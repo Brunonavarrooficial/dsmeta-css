@@ -32,7 +32,7 @@
 
 <div align="center">
     <h3>Projeto Java Completo</h3>
-    <a href="https://github.com/Brunonavarrooficial/dsmeta"><h5>Repositório do Projeto🔗</h5></a>
+    <h5><a href="https://github.com/Brunonavarrooficial/dsmeta">Repositório do Projeto🔗</a></h5>
     <img src="IMG/Dsmeta.gif" alt="projeto gif"/>
 </div>
 
